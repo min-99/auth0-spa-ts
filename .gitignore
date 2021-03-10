@@ -1,0 +1,14 @@
+.rpt2_cache
+node_modules
+dist
+coverage
+stats.html
+cypress/screenshots
+cypress/videos
+.release
+.idea
+test-results
+yarn.lock
+
+release-tmp*
+bundle-stats
